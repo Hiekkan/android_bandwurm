@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bandwurm</string>
+    <string name="settings">Einstellungen</string>
+    <string name="startGame">Spiel starten</string>
+    <string name="highScore">Bestenliste</string>
+    <string name="menu">Menü</string>
+    <string name="exit">Beenden</string>
+    <string name="score">Punkte:</string>
+    <string name="pause">Pause</string>
+    <string name="left">Links</string>
+    <string name="right">Rechts</string>
+    <string name="save">Speichern</string>
+    <string name="name">Name</string>
+    <string name="darkTheme">Dark Theme:</string>
+    <string name="difficulty">Schwierigkeitsgrad:</string>
+    <string name="clearHighscore">Bestenliste löschen:</string>
+    <string name="clear">Löschen</string>
+    <string name="clearData">Daten löschen</string>
+    <string name="clearMessage">Möchten Sie wirklich die Bestenliste löschen? Es kann nicht wieder rückgänig gemacht werden!</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="gameover">GAME OVER</string>
+    <string name="newGame">Neues Spiel</string>
+    <string name="nullScore">0</string>
+    <string name="tvHigscorePoints">Punkte:</string>
+
+    <string-array name="difficulty_array">
+        <item>Einfach</item>
+        <item>Mittel</item>
+        <item>Schwierig</item>
+    </string-array>
+
+</resources>

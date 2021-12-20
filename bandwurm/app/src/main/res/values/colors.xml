@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00aedb</color>
+    <color name="colorPrimaryDark">#0392cf</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="borderColor">#000000</color>
+
+    <color name="game_over_color">#d41243</color>
+    <color name="game_over_background">#60888888</color>
+
+    <color name="game_background">#8ec127</color>
+    <color name="wormHead">#a200ff</color>
+    <color name="wormBody">#f47835</color>
+    <color name="apple">#d41243</color>
+
+    <color name="textColor">#808080</color>
+
+</resources>

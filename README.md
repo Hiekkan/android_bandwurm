@@ -1,4 +1,4 @@
-# Project from the ÜK 335 🐍
+# Project from the ÜK335 - Bandwurm 🐍
 
 Learning to program a Android Mobile App, made a simple snake game (with Dark Theme 😉)
 

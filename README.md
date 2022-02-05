@@ -8,7 +8,7 @@ Created with [Android Studio](https://developer.android.com/studio)
 
 ## Preview Screens
 
-### With Dark Theme 🌙 & Light Theme 🌞
+### Dark Theme 🌙 & Light Theme 🌞
 
 <img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/StartScreen.png" width="323.7" height="597" alt="StartScreen"> <img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/LightThemeScreen.png" width="323.7" height="597" alt="LightThemeScreen">
 

@@ -1,27 +1,17 @@
-# android_bandwurm
-Project from the ÜK 335 🐍
+# Project from the ÜK 335 🐍
 
 Learning to program a Android Mobile App, made a simple snake game (with Dark Theme 😉)
 
-Created with [Android studio](https://developer.android.com/studio)
+Created with [Android Studio](https://developer.android.com/studio)
 
-![Icon](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/Icon.png)
+<img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/Icon.png" width="150" height="150" alt="Icon">
 
 ## Preview Screens
 
-### With Dark Theme 🌙
-![StartScreen](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/StartScreen.png)
+### With Dark Theme 🌙 & Light Theme 🌞
 
-### With Light Theme 🌞
-![LightThemeScreen](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/LightThemeScreen.png)
+<img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/StartScreen.png" width="323.7" height="597" alt="StartScreen"> <img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/LightThemeScreen.png" width="323.7" height="597" alt="LightThemeScreen">
 
+### Other Screens
 
-![SettingsScreen](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/SettingsScreen.png)
-
-![StartingGameScreen](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/StartingGameScreen.png)
-
-![PlayingScreen](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/PlayingScreen.png)
-
-![GameOverScreen](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/GameOverScreen.png)
-
-![ScoreboardScreen](https://github.com/Hiekkan/android_bandwurm/blob/main/screens/ScoreboardScreen.png)
+<img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/StartingGameScreen.png" width="323.7" height="597" alt="StartingGameScreen"> <img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/PlayingScreen.png" width="323.7" height="597" alt="PlayingScreen"> <img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/GameOverScreen.png" width="323.7" height="597" alt="GameOverScreen"> <img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/ScoreboardScreen.png" width="323.7" height="597" alt="ScoreboardScreen"> <img src="https://github.com/Hiekkan/android_bandwurm/blob/main/screens/SettingsScreen.png" width="323.7" height="597" alt="SettingsScreen">
